@@ -1,0 +1,7 @@
+# Security Policy for Axya Tech
+# https://axyatech.com/.well-known/security.txt
+
+Contact: mailto:info@axyatech.com
+Expires: 2027-01-01T00:00:00.000Z
+Preferred-Languages: en, dv
+Canonical: https://axyatech.com/.well-known/security.txt

@@ -4,8 +4,18 @@
 User-agent: *
 Allow: /
 
-# Sitemap
+# Allow search engines to access all resources
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap location
 Sitemap: https://axyatech.com/sitemap.xml
 
-# Crawl-delay (optional)
-Crawl-delay: 1
+# Host directive (for Yandex)
+Host: https://axyatech.com

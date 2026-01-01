@@ -1,0 +1,18 @@
+/* TEAM */
+Company: Axya Tech
+Site: https://axyatech.com
+Location: Male, Maldives
+Contact: info@axyatech.com
+
+/* SITE */
+Last update: 2026/01/02
+Language: English
+Standards: HTML5, CSS3, JavaScript ES6+
+Components: Inter (Google Fonts)
+Software: Custom Built
+
+/* SERVICES */
+Web Design
+App Development
+UI/UX Design
+IT Consulting
