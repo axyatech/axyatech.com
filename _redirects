@@ -1,0 +1,4 @@
+# Netlify Redirects
+# Handle www to non-www redirect
+
+https://www.axyatech.com/* https://axyatech.com/:splat 301!

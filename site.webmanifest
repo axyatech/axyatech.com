@@ -1,0 +1,21 @@
+{
+    "name": "Axya Tech",
+    "short_name": "Axya Tech",
+    "description": "Professional Web Design, App Development, UI/UX Design and Consulting services in the Maldives.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0a0e1a",
+    "theme_color": "#0a0e1a",
+    "icons": [
+        {
+            "src": "axyatec_icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "axyatec_icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

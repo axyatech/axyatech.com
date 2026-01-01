@@ -1,0 +1,11 @@
+# Robots.txt for Axya Tech
+# https://axyatech.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://axyatech.com/sitemap.xml
+
+# Crawl-delay (optional)
+Crawl-delay: 1
