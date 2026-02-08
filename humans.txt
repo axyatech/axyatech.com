@@ -2,7 +2,7 @@
 Company: Axya Tech
 Site: https://axyatech.com
 Location: Male, Maldives
-Contact: info@axyatech.com
+Contact: info@axyatech.com.mv
 
 /* SITE */
 Last update: 2026/01/02

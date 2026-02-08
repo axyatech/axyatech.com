@@ -10,6 +10,6 @@ Axya Tech is a technology-driven business dedicated to Web Design, App Developme
 
 ---
 
-**+(960) 935 1197** | **info@axyatech.com** | **Maldives**
+**+(960) 935 1197** | **info@axyatech.com.mv** | **Maldives**
 
 </div>
